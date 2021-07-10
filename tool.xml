@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="stylesheet.xsl"?>
+<?xml-stylesheet type="text/xsl" href="formAjout.xsl"?>
+<?xml-stylesheet type="text/xsl" href="formModif.xsl"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<products>
+  <product id="1">
+    <name>Person</name>
+    <categories>photos</categories>
+    <price>650000</price>
+    <description>Dispose d'une affiche</description>
+    <image>uploads/man.jpeg</image>
+  </product>
+	<product id="2">
+		<name>Imprimante Canon PIXMA</name>
+		<categories>Cano PIXMA G4210</categories>
+		<price>20020</price>
+		<description>Imprimante Canon PIXMA G4210 Wireless MegaTank</description>
+		<image>uploads/imprimante.jpeg</image>
+	</product>
+</products>
